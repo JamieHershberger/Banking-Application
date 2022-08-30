@@ -1,3 +1,4 @@
+[Copy of Proposed Script for TEnmo Presentation.docx](https://github.com/JamieHershberger/TEnmo-Banking-Application/files/9455882/Copy.of.Proposed.Script.for.TEnmo.Presentation.docx)
 # Module 2 Capstone - TEnmo
 
 Congratulations—you've landed a job with TEnmo, whose product is an online payment service for transferring "TE bucks" between friends. However, they don't have a product yet. You've been tasked with writing a RESTful API server and command-line application.
